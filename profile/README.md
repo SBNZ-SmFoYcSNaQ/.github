@@ -32,7 +32,8 @@ This project was developed as part of the Knowledge Based Systems course at the 
 To accomplish this, we created two systems: an online bookstore and a bank. These two services were designed to cooperate with each other, allowing bookstore users to purchase books using a payment card. The system's modular structure is illustrated below.
 
 <div align="center">
-  <img src="images/structure.svg" title="Structure" width="50%">
+  
+  ![Structure](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/0831bd86d758bb1d1219f24e630526ec4ae75926/profile/images/structure.svg)
 </div>
 
 
@@ -79,15 +80,15 @@ To accomplish this, we created two systems: an online bookstore and a bank. Thes
 
 | Home Page | Login Page |
 | :-------: | :--------: |
-| <img src="images/bookstore/home.png" title="Home Page" width="100%"> | <img src="images/bookstore/login.png" title="Login Page" width="100%"> |
+| ![Home Page](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bookstore/home.png) | ![Login Page](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bookstore/login.png) |
 
 | Home Page For Logged-In Users | Books |
 | :---------------------------: | :---: |
-| <img src="images/bookstore/logged_in_home.png" title="Home Page For Logged-In Users" width="100%"> | <img src="images/bookstore/books.png" title="Books" width="100%"> |
+| ![Home Page For Logged-In Users](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bookstore/logged_in_home.png) | ![Books](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bookstore/books.png) |
 
 | Cart | Payment |
 | :--: | :-----: |
-| <img src="images/bookstore/cart.png" title="Home Page" width="100%"> | <img src="images/bookstore/payment.png" title="Login Page" width="100%"> |
+| ![Cart](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bookstore/cart.png) | ![Payment](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bookstore/payment.png) |
 
 <div align="center">
   <h2>Bank</h2>
@@ -95,15 +96,15 @@ To accomplish this, we created two systems: an online bookstore and a bank. Thes
 
 | Registration Page | Login Page |
 | :-------: | :--------: |
-| <img src="images/bank/registration.png" title="Registration Page" width="100%"> | <img src="images/bank/login.png" title="Login Page" width="100%"> |
+| ![Registration Page](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bank/registration.png) | ![Login page](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bank/login.png) |
 
 | Bank Accounts | Suspicious Transactions |
 | :-----------: | :---------------------: |
-| <img src="images/bank/bank_accounts.png" title="Bank Accounts" width="100%"> | <img src="images/bank/suspicious_transactions.png" title="Suspicious Transactions" width="100%"> |
+| ![Bank Accounts](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bank/bank_accounts.png) | ![Suspicious Transactions](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bank/suspicious_transactions.png) |
 
 | Credit Application | System Response |
 | :----------------: | :-------------: |
-| <img src="images/bank/credit_application.png" title="Credit Application" width="100%"> | <img src="images/bank/system_response.png" title="System Response" width="100%"> |
+| ![Credit Application](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bank/credit_application.png) | ![System Response](https://raw.githubusercontent.com/SBNZ-SmFoYcSNaQ/.github/main/profile/images/bank/system_response.png) |
 
 </details>
 
@@ -165,7 +166,7 @@ Books recommendation for authenticated users
 <div id="pearson" align="center"> 
 <details open>
 <summary><b>Pearson Correlation Coefficient:</b></summary>
-  <img src="images/pearson.svg" title="Pearson Correlation Coefficient" width="55%">
+  <img src="profile/images/pearson.svg" title="Pearson Correlation Coefficient" width="55%">
 </details>
 </div>
 
@@ -251,5 +252,5 @@ git clone https://github.com/SBNZ-SmFoYcSNaQ/bookstore-frontend
 
 ## Authors
 
-[![Contributors image](images/contributors.svg)](https://github.com/SBNZ-SmFoYcSNaQ/Bank/graphs/contributors)
+[![Contributors image](profile/images/contributors.svg)](https://github.com/SBNZ-SmFoYcSNaQ/Bank/graphs/contributors)
 <div align="right">[ <a href="#table-of-contents">↑ Back to top ↑</a> ]</div>
